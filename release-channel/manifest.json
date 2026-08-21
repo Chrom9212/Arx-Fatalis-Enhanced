@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.1.10",
-  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.10/AFE-Content-v0.1.10.zip",
-  "sha256": "C33E7121AE396AF92FFD51E2976CC77A157599BC1930A228C77BEF8B5C985FED",
-  "notes": "AFE 0.1.10: Rovan wird in den sichtbaren Schankraum der Gelben Tulpe versetzt; bereits mit v0.1.9 gespeicherte Instanzen werden beim Laden automatisch korrigiert. Ein neues Spiel ist nicht erforderlich."
+  "version": "0.1.11",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.11/AFE-Content-v0.1.11.zip",
+  "sha256": "3C40778F4E195286D5E36C9799F4E6B2186875CA701F90E74539EDE6D33DBF47",
+  "notes": "AFE 0.1.11: Bereits gespeicherte Rovan-Instanzen aus v0.1.9/v0.1.10 werden zuverlässig im laufenden NPC-Ereignis an den sichtbaren Tavernenpunkt der Gelben Tulpe versetzt. Mit einer Kopie des aktuellen Spielstands geprüft. Ein neues Spiel ist nicht erforderlich."
 }
