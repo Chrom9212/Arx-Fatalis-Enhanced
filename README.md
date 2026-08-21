@@ -8,11 +8,11 @@ Der AFE Launcher liest automatisch:
 
 `https://raw.githubusercontent.com/Chrom9212/Arx-Fatalis-Enhanced/main/release-channel/manifest.json`
 
-Aktuelle Stable-Version: **0.1.5**
+Aktuelle Stable-Version: **0.1.8**
 
 Release-Paket:
 
-`https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.5/AFE-Content-v0.1.5.zip`
+`https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.8/AFE-Content-v0.1.8.zip`
 
 ## Rechtlicher Hinweis
 
