@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.1.9",
-  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.9/AFE-Content-v0.1.9.zip",
-  "sha256": "2800547264C0730FC0287808E2FAAA67FAA6634A81BA8ED005916CD4CD0A5875",
-  "notes": "AFE 0.1.9: 750 EP werden am Uebergang zum Menschen-Aussenposten vergeben, festhaengende Spielstaende werden automatisch repariert, Rovan erscheint sichtbar im Schankraum der Gelben Tulpe und fehlerhafte 0-/game_ready-Tagebucheintraege werden entfernt."
+  "version": "0.1.10",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.10/AFE-Content-v0.1.10.zip",
+  "sha256": "C33E7121AE396AF92FFD51E2976CC77A157599BC1930A228C77BEF8B5C985FED",
+  "notes": "AFE 0.1.10: Rovan wird in den sichtbaren Schankraum der Gelben Tulpe versetzt; bereits mit v0.1.9 gespeicherte Instanzen werden beim Laden automatisch korrigiert. Ein neues Spiel ist nicht erforderlich."
 }
