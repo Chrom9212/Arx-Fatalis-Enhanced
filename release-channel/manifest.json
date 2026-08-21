@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.1.5",
-  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.5/AFE-Content-v0.1.5.zip",
-  "sha256": "72f21fed274584be72bb541e26e9321c8fb41603e203ae62829e2d7a31050d1d",
-  "notes": "AFE 0.1.5: kompletter neuer Dialogstimmen-Satz. Rovan R01-R07 und Am Shaegar AS01-AS06 (Profil B). Die neuen Sprachassets werden installiert; ihre endgültige Zuordnung zu neuen Script-Dialogen folgt mit den nächsten Quest-Inhalten."
+  "version": "0.1.6",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.6/AFE-Content-v0.1.6.zip",
+  "sha256": "296d838e96628af0a059a9f1dfef79d714bb54ef41264e93f08935599ce44623",
+  "notes": "AFE 0.1.6: Rovan kehrt nach „Nur raus hier“ in die Gelbe Tulpe zurück. Neue Tavernen-Instanz an marker_0549 und R01-R07 / AS01-AS06 als Wechselgespräch."
 }
