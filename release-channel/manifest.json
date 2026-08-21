@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.1.6",
-  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.6/AFE-Content-v0.1.6.zip",
-  "sha256": "296d838e96628af0a059a9f1dfef79d714bb54ef41264e93f08935599ce44623",
-  "notes": "AFE 0.1.6: Rovan kehrt nach „Nur raus hier“ in die Gelbe Tulpe zurück. Neue Tavernen-Instanz an marker_0549 und R01-R07 / AS01-AS06 als Wechselgespräch."
+  "version": "0.1.7",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.7/AFE-Content-v0.1.7.zip",
+  "sha256": "f5b4f0631d3edda77cc64c5b8c167ea5ec61ece05c17226c71282faf4981709c",
+  "notes": "AFE 0.1.7: 750-EP-Abschluss abgesichert, human_base-Warnflut behoben und vollständige deutsche Untertitel für R01-R07 / AS01-AS06."
 }
