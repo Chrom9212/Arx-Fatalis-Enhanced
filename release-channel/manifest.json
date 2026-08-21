@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "0.1.5",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.5/AFE-Content-v0.1.5.zip",
+  "sha256": "72f21fed274584be72bb541e26e9321c8fb41603e203ae62829e2d7a31050d1d",
+  "notes": "AFE 0.1.5: kompletter neuer Dialogstimmen-Satz. Rovan R01-R07 und Am Shaegar AS01-AS06 (Profil B). Die neuen Sprachassets werden installiert; ihre endgültige Zuordnung zu neuen Script-Dialogen folgt mit den nächsten Quest-Inhalten."
+}

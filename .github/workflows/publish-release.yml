@@ -1,0 +1,39 @@
+name: Publish AFE Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version without v prefix, e.g. 0.1.5"
+        required: true
+        default: "0.1.5"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check package
+        shell: bash
+        run: |
+          test -f "release-channel/AFE-Content-v${{ inputs.version }}.zip"
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          TAG="v${{ inputs.version }}"
+          FILE="release-channel/AFE-Content-v${{ inputs.version }}.zip"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$FILE" --clobber
+          else
+            gh release create "$TAG" "$FILE" \
+              --title "Arx Fatalis Enhanced $TAG" \
+              --notes "AFE Content Release $TAG"
+          fi
