@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.1.8",
-  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.8/AFE-Content-v0.1.8.zip",
-  "sha256": "b2a1ffb3b4fb760b0ad5db8e660b95f13dea75ec4cf44996410bb217adf66ada",
-  "notes": "AFE 0.1.8: fehlende 750 EP werden nachgetragen, Auftrag und Rueckgabe des versiegelten Schreibens sind getrennt, Rovans Untertitel stimmen mit den gesprochenen Zeilen ueberein und Rovan traegt passende Kleidung."
+  "version": "0.1.9",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.9/AFE-Content-v0.1.9.zip",
+  "sha256": "2800547264C0730FC0287808E2FAAA67FAA6634A81BA8ED005916CD4CD0A5875",
+  "notes": "AFE 0.1.9: 750 EP werden am Uebergang zum Menschen-Aussenposten vergeben, festhaengende Spielstaende werden automatisch repariert, Rovan erscheint sichtbar im Schankraum der Gelben Tulpe und fehlerhafte 0-/game_ready-Tagebucheintraege werden entfernt."
 }
