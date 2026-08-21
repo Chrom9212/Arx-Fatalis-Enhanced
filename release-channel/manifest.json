@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.1.11",
-  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.11/AFE-Content-v0.1.11.zip",
-  "sha256": "3C40778F4E195286D5E36C9799F4E6B2186875CA701F90E74539EDE6D33DBF47",
-  "notes": "AFE 0.1.11: Bereits gespeicherte Rovan-Instanzen aus v0.1.9/v0.1.10 werden zuverlässig im laufenden NPC-Ereignis an den sichtbaren Tavernenpunkt der Gelben Tulpe versetzt. Mit einer Kopie des aktuellen Spielstands geprüft. Ein neues Spiel ist nicht erforderlich."
+  "version": "0.1.12",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.12/AFE-Content-v0.1.12.zip",
+  "sha256": "29EC0BF85EF61377D3DB11D408A0ADE5D42C15BE3FE3F2001CC229D0BA23E006",
+  "notes": "AFE 0.1.12: Rovan wird in der Gelben Tulpe vollständig sichtbar initialisiert und steht auf dem begehbaren Hauptboden. Vorhandene unsichtbare Rovan-Instanzen aus v0.1.9 bis v0.1.11 werden beim Laden repariert. „Nur raus hier“ wird ausschließlich beim Treppenübergang auf Kartenebene 1 abgeschlossen und vergibt dort einmalig 750 EP. Ein neues Spiel ist für die Rovan-Reparatur nicht erforderlich."
 }
