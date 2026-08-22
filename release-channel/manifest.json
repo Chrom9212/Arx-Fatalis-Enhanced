@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.1.12",
-  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.12/AFE-Content-v0.1.12.zip",
-  "sha256": "29EC0BF85EF61377D3DB11D408A0ADE5D42C15BE3FE3F2001CC229D0BA23E006",
-  "notes": "AFE 0.1.12: Rovan wird in der Gelben Tulpe vollständig sichtbar initialisiert und steht auf dem begehbaren Hauptboden. Vorhandene unsichtbare Rovan-Instanzen aus v0.1.9 bis v0.1.11 werden beim Laden repariert. „Nur raus hier“ wird ausschließlich beim Treppenübergang auf Kartenebene 1 abgeschlossen und vergibt dort einmalig 750 EP. Ein neues Spiel ist für die Rovan-Reparatur nicht erforderlich."
+  "version": "0.1.13",
+  "package_url": "https://github.com/Chrom9212/Arx-Fatalis-Enhanced/releases/download/v0.1.13/AFE-Content-v0.1.13.zip",
+  "sha256": "F8E5D7580770D09A1A782FD9FF03DD0894A0AC42EC8C13FA360560CA9F66FA9C",
+  "notes": "AFE 0.1.13: Rovans versiegeltes Schreiben liegt jetzt in Ortierns vorhandener Metalltruhe. Die Truhe kann mit Dietrichen oder dem unter einer Bank im Wachraum versteckten Schlüssel geöffnet werden. Vorhandene Truheninhalte bleiben erhalten; ein unter v0.1.12 bereits erzeugtes Schreiben wird bei aktivem Auftrag übernommen. Rovans Position, Dialoge, Questabschluss und EP-Belohnungen bleiben unverändert. Ein neues Spiel ist nicht erforderlich."
 }
